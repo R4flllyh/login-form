@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Viga&display=swap");
 
 body {
-  background-image: url(/landing-page/gambar/flat-background-hd.jpg);
+  background-image: url(gambar/flat-background-hd.jpg);
 }
 
 .login .container .quotes {
